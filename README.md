@@ -1,3 +1,9 @@
+# ARM conversion
+
+The plan is to use https://github.com/jratcliff63367/sse2neon to convert all the Intel sse instructions to ARM Neon instructions.
+
+## All credit for the project and its technology go to the original creators of DSO.
+
 # DSO: Direct Sparse Odometry
 
 For more information see

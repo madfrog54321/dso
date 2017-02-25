@@ -1,6 +1,6 @@
 /**
 * This file is part of DSO.
-* 
+*
 * Copyright 2016 Technical University of Munich and Intel.
 * Developed by Jakob Engel <engelj at in dot tum dot de>,
 * for more information see <http://vision.in.tum.de/dso>.
@@ -24,6 +24,7 @@
 
 #pragma once
 #include "util/NumType.h"
+#include "Neon/SSE2NEON.h"
 
 
 namespace dso
